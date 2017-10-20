@@ -1,1 +1,3 @@
 # hello-world
+
+I've used CVS and SVN but now learning GIT....
